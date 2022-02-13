@@ -1,5 +1,4 @@
 print("Integer Resolution Generator")
-print("By Thomas Seeds")
 print("How to use: Input your targeted dimensions, Input the desired operation, Input the amount of values you want returned.\nMost numbers work better when rounded down. ")
 x = input("xres\n")
 y = input("yres\n")
